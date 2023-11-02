@@ -9,6 +9,7 @@ The Vue.js LoginDemo provides a simple and functional example for user authentic
 ## Features
 
 - User-friendly login form.
-- The example provided is for educational purposes, should not be used in a production environment without substantial security improvements.
+- The example provided is for educational purposes
+- Not to be used in a production environment without substantial security improvements.
 - Demonstrates Vue.js for building interactive user interfaces.
 - A great starting point for building your authentication system.
