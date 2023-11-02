@@ -2,7 +2,7 @@
 
 Vue.js is a progressive and approachable JavaScript framework for building user interfaces, known for its simplicity and flexibility. This repository serves as an example of a basic front-end framework for user log-in using Vue.js.
 
-[![Try it in Vue.js Playground](https://img.shields.io/badge/Try%20it%20in-Vue.js%20Playground-blue?style=for-the-badge)]
+![Try it in Vue.js Playground](https://img.shields.io/badge/Try%20it%20in-Vue.js%20Playground-blue?style=for-the-badge)
 
 The Vue.js LoginDemo provides a simple and functional example for user authentication using Vue.js. Click the "Try it in Vue.js Playground" button above to explore the interactive demonstration.
 
