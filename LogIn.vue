@@ -94,10 +94,17 @@ button {
 }
 
 .fade-enter-active, .fade-leave-active {
-  transition: opacity 0.5s;
+  transition: opacity 0.66s;
 }
 
 .fade-enter, .fade-leave-to {
   opacity: 0;
 }
 </style>
+
+
+<!--
+  WARNING: This code is a basic example for educational and prototyping purposes.
+  It does not include real authentication logic and should not be used in production without proper security measures.
+-->
+
