@@ -15,6 +15,6 @@ The Vue.js LoginDemo provides a simple and functional example for user authentic
 - A great starting point for building your authentication system.
 
 
-## ⚠️ Important Notice
+## 
 
-**Not to be used in a production environment without substantial security improvements.**
+** ⚠️ Important: Not to be used in a production environment without substantial security improvements.**
